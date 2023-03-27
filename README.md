@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+## About me
+
+I`m ✨Nata✨ 
+
+🔭 I’m currently studying  at KPI.
+
+There you can see some information about my knowledge:
+
+|   #  | Languages |
+|-----:|-----------|
+|     1| C#        |
+|     2| Java      |
+|     3| SQL       |
+|     4| JS        |
+|     5| HTML, CSS        |
+
 <!--
 **Kovalchuk-Nata/Kovalchuk-Nata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
